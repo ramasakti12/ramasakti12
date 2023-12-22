@@ -3,8 +3,11 @@
 
 <h3 align="left">My short profile</h3>
 - 🌱 I’m currently learning **React Native, Kotlin, Vue Js.**
+
 - 💬 Ask me about **Kotlin, Laravel**
+
 - 📫 How to reach me **ramasaktiaji@gmail.com**
+
 - ⚡ Fun fact **I want to be Fullstack Developer**
 
 <h3 align="left">Connect with me:</h3>
