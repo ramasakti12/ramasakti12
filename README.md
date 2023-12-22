@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Kediri Indonesia</h3>
 
 <h3 align="left">My short profile</h3>
+
 - 🌱 I’m currently learning **React Native, Kotlin, Vue Js.**
 
 - 💬 Ask me about **Kotlin, Laravel**
