@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ramasakti!</h1>
 <h3 align="center">A passionate frontend developer from Kediri Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramasakti12&label=Profile%20views&color=0e75b6&style=flat" alt="ramasakti12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramasakti12" alt="ramasakti12" /></a> </p>
-
+My short profile
 - 🌱 I’m currently learning **React Native, Kotlin, Vue Js.**
-
 - 💬 Ask me about **Kotlin, Laravel**
-
 - 📫 How to reach me **ramasaktiaji@gmail.com**
-
 - ⚡ Fun fact **I want to be Fullstack Developer**
 
 <h3 align="left">Connect with me:</h3>
